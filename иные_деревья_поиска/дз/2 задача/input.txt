@@ -1,0 +1,14 @@
+13
+add 10
+add 20
+add 30
+print
+add 15
+add 25
+print
+add 27
+root
+print
+exists 25
+exists 26
+root
