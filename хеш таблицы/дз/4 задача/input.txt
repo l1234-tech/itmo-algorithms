@@ -1,0 +1,9 @@
+8
+put apple 10
+put banana 20
+get apple
+put apple -5
+get apple
+size
+del banana
+get banana
