@@ -1,1 +1,5 @@
-## [HOLST](https://app.holst.so/share/b/1e9cf3f4-6bc7-4aaf-a997-88ee27cf2b2d)
+# Доска HOLST: хеш-таблицы
+
+[Открыть доску](https://app.holst.so/share/b/1e9cf3f4-6bc7-4aaf-a997-88ee27cf2b2d)
+
+[← К материалам темы](./README.md)
