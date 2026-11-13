@@ -1,0 +1,1 @@
+### [Яндекс Контест](https://new.contest.yandex.ru/contests/103667/start)
