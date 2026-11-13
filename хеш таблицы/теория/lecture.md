@@ -1,1 +1,5 @@
-### [Лекция](https://drive.google.com/file/d/10dqkswVVwwfcPivsuE1QiUGbi9Hh4MPI/view?usp=sharing)
+# Внешняя лекция: хеш-таблицы
+
+Ссылка на внешнюю лекцию пока не добавлена. Основной конспект доступен в Jupyter Notebook.
+
+[Конспект в Jupyter Notebook](./lecture_hash_tables.ipynb) · [Доска HOLST](./holst.md) · [← Обзор темы](../README.md)
